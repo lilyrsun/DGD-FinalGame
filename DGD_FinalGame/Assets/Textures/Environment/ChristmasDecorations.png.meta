@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: bec20e0fd29b34ea5a8c5da449e5273a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7814553352534869566
+    second: ChristmasDecorations_0
+  - first:
+      213: -3707818989294187798
+    second: ChristmasDecorations_1
+  - first:
+      213: 9012048755762811514
+    second: ChristmasDecorations_2
+  - first:
+      213: -302096393000452786
+    second: ChristmasDecorations_3
+  - first:
+      213: -3676057439128104540
+    second: ChristmasDecorations_4
+  - first:
+      213: 295224760626817169
+    second: ChristmasDecorations_5
+  - first:
+      213: -7354101460976094735
+    second: ChristmasDecorations_6
+  - first:
+      213: 7122424629362701995
+    second: ChristmasDecorations_7
+  - first:
+      213: -7142689888636784465
+    second: ChristmasDecorations_8
+  - first:
+      213: -4268229333964990544
+    second: ChristmasDecorations_9
+  - first:
+      213: -5542635546139480518
+    second: ChristmasDecorations_10
+  - first:
+      213: 495227183297241115
+    second: ChristmasDecorations_11
+  - first:
+      213: -4771901370866441680
+    second: ChristmasDecorations_12
+  - first:
+      213: -7812565225419446311
+    second: ChristmasDecorations_13
+  - first:
+      213: 2089504968257930854
+    second: ChristmasDecorations_14
+  - first:
+      213: -2465639960761268002
+    second: ChristmasDecorations_15
+  - first:
+      213: -797052480317343545
+    second: ChristmasDecorations_16
+  - first:
+      213: -1358158275791827566
+    second: ChristmasDecorations_17
+  - first:
+      213: 6151583160108423608
+    second: ChristmasDecorations_18
+  - first:
+      213: -6916650809601473332
+    second: ChristmasDecorations_19
+  - first:
+      213: -4399799302210336106
+    second: ChristmasDecorations_20
+  - first:
+      213: 5158474573862955770
+    second: ChristmasDecorations_21
+  - first:
+      213: -5659603511163486316
+    second: ChristmasDecorations_22
+  - first:
+      213: -4966879776592829180
+    second: ChristmasDecorations_23
+  - first:
+      213: -5702222336152275022
+    second: ChristmasDecorations_24
+  - first:
+      213: 1424039299145487853
+    second: ChristmasDecorations_25
+  - first:
+      213: -3468245074562144417
+    second: ChristmasDecorations_26
+  - first:
+      213: -5963971415784932986
+    second: ChristmasDecorations_27
+  - first:
+      213: 221970769919828573
+    second: ChristmasDecorations_28
+  - first:
+      213: -5911024282311000181
+    second: ChristmasDecorations_29
+  - first:
+      213: -423122312207389699
+    second: ChristmasDecorations_30
+  - first:
+      213: -4276094987429911096
+    second: ChristmasDecorations_31
+  - first:
+      213: -3028608965496234357
+    second: ChristmasDecorations_32
+  - first:
+      213: -2284168667535412801
+    second: ChristmasDecorations_33
+  - first:
+      213: 1841302117237431839
+    second: ChristmasDecorations_34
+  - first:
+      213: -3759956026054033830
+    second: ChristmasDecorations_35
+  - first:
+      213: 2927640759771268776
+    second: ChristmasDecorations_36
+  - first:
+      213: 6157326030785494594
+    second: ChristmasDecorations_37
+  - first:
+      213: 4571818460495051260
+    second: ChristmasDecorations_38
+  - first:
+      213: -9219997665861123641
+    second: ChristmasDecorations_39
+  - first:
+      213: 3749908432570203231
+    second: ChristmasDecorations_40
+  - first:
+      213: 1372814649382992805
+    second: ChristmasDecorations_41
+  - first:
+      213: -2838784806466166223
+    second: ChristmasDecorations_42
+  - first:
+      213: -4513696082538152155
+    second: ChristmasDecorations_43
+  - first:
+      213: 6485040607159046677
+    second: ChristmasDecorations_44
+  - first:
+      213: -1727918277821768194
+    second: ChristmasDecorations_45
+  - first:
+      213: 2886557790528570374
+    second: ChristmasDecorations_46
+  - first:
+      213: -3680414153193771515
+    second: ChristmasDecorations_47
+  - first:
+      213: 7040829366424037298
+    second: ChristmasDecorations_48
+  - first:
+      213: -1094634153350362317
+    second: ChristmasDecorations_49
+  - first:
+      213: 4749647111477928670
+    second: ChristmasDecorations_50
+  - first:
+      213: 1851467247962075821
+    second: ChristmasDecorations_51
+  - first:
+      213: 6803564895056675981
+    second: ChristmasDecorations_52
+  - first:
+      213: -5534576285677539918
+    second: ChristmasDecorations_53
+  - first:
+      213: -8881763737761282452
+    second: ChristmasDecorations_54
+  - first:
+      213: -3620015414861609390
+    second: ChristmasDecorations_55
+  - first:
+      213: -6548029191502659497
+    second: ChristmasDecorations_56
+  - first:
+      213: -4152901516209178928
+    second: ChristmasDecorations_57
+  - first:
+      213: 7442768689638605607
+    second: ChristmasDecorations_58
+  - first:
+      213: 2727564912591430356
+    second: ChristmasDecorations_59
+  - first:
+      213: 7840473831079292762
+    second: ChristmasDecorations_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChristmasDecorations_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c932df01212d8390800000000000000
+      internalID: -7814553352534869566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 453
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0cab264e2b8cc0800000000000000
+      internalID: -3707818989294187798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 458
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a725eb1789a311d70800000000000000
+      internalID: 9012048755762811514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 458
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df74f5eecbecbf0800000000000000
+      internalID: -302096393000452786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 482
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a156d65c350cfcc0800000000000000
+      internalID: -3676057439128104540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 482
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198af0a0b59d81400800000000000000
+      internalID: 295224760626817169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 452
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b6585fabf0f990800000000000000
+      internalID: -7354101460976094735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 449
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba638a4d67fe7d260800000000000000
+      internalID: 7122424629362701995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 449
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b70fc36110ec90800000000000000
+      internalID: -7142689888636784465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 451
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b75d19e80434c4c0800000000000000
+      internalID: -4268229333964990544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 451
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e27e0465a9413b0800000000000000
+      internalID: -5542635546139480518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 383
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ac87df766fd600800000000000000
+      internalID: 495227183297241115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 351
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0326e4e5cfcc6cdb0800000000000000
+      internalID: -4771901370866441680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 447
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7ed4af151349390800000000000000
+      internalID: -7812565225419446311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 393
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6668d6da2b96ffc10800000000000000
+      internalID: 2089504968257930854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 393
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed801dae48948cdd0800000000000000
+      internalID: -2465639960761268002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 415
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8375bfdfc40f4f0800000000000000
+      internalID: -797052480317343545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 415
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dcba67e3ad62de0800000000000000
+      internalID: -1358158275791827566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 418
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b99988aa40de5550800000000000000
+      internalID: 6151583160108423608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 418
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc449421cbe1300a0800000000000000
+      internalID: -6916650809601473332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 433
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69acdb488d5c0f2c0800000000000000
+      internalID: -4399799302210336106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 416
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6cfd4b45969740800000000000000
+      internalID: 5158474573862955770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 422
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffb8ba79c0571b0800000000000000
+      internalID: -5659603511163486316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 422
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405ec1aa829121bb0800000000000000
+      internalID: -4966879776592829180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 417
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b778573ff2add0b0800000000000000
+      internalID: -5702222336152275022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 383
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de553cb923433c310800000000000000
+      internalID: 1424039299145487853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 383
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a9b0fa715edfc0800000000000000
+      internalID: -3468245074562144417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 385
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893e878897bb3da0800000000000000
+      internalID: -5963971415784932986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 385
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52679b3d39941300800000000000000
+      internalID: 221970769919828573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 322
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ff422bbb2d7fda0800000000000000
+      internalID: -5911024282311000181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 322
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2654bf74c02af0800000000000000
+      internalID: -423122312207389699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 320
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56960c34248a4c0800000000000000
+      internalID: -4276094987429911096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e9800313838f5d0800000000000000
+      internalID: -3028608965496234357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 342
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1797ce2b00d40e0800000000000000
+      internalID: -2284168667535412801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e9c1e158e9d8910800000000000000
+      internalID: 1841302117237431839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 255
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eb5f75ae3f1dbc0800000000000000
+      internalID: -3759956026054033830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a60f1c72c111a820800000000000000
+      internalID: 2927640759771268776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 255
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e3c3fe667337550800000000000000
+      internalID: 6157326030785494594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 255
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf97163daac527f30800000000000000
+      internalID: 4571818460495051260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 255
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1ca68f8fcfb0080800000000000000
+      internalID: -9219997665861123641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 224
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cb69ff9d95a0430800000000000000
+      internalID: 3749908432570203231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 194
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abfcee66a73d0310800000000000000
+      internalID: 1372814649382992805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132eec0524c9a98d0800000000000000
+      internalID: -2838784806466166223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 161
+        width: 9
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fbd38d3512c51c0800000000000000
+      internalID: -4513696082538152155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 161
+        width: 9
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d2bfa21e7ff950800000000000000
+      internalID: 6485040607159046677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd57813b733508e0800000000000000
+      internalID: -1727918277821768194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 164
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6048710540d1f0820800000000000000
+      internalID: 2886557790528570374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 165
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ea09cc3da8cecc0800000000000000
+      internalID: -3680414153193771515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 193
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7e7dd310d06b160800000000000000
+      internalID: 7040829366424037298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_49
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 195
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b8a8289041fc0f0800000000000000
+      internalID: -1094634153350362317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 195
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22a1812e22ae140800000000000000
+      internalID: 4749647111477928670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 163
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2bc0c07abb1b910800000000000000
+      internalID: 1851467247962075821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 163
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84cb28a93e1b6e50800000000000000
+      internalID: 6803564895056675981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda3ed013c3133b0800000000000000
+      internalID: -5534576285677539918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 141
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c660bc720f2adb480800000000000000
+      internalID: -8881763737761282452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 129
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2564cbbe82f13cdc0800000000000000
+      internalID: -3620015414861609390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_56
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 95
+        width: 9
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750889da42ab025a0800000000000000
+      internalID: -6548029191502659497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_57
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 129
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6bb23f21eed56c0800000000000000
+      internalID: -4152901516209178928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 95
+        width: 9
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230f4390b60a4760800000000000000
+      internalID: 7442768689638605607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 97
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2e4d436d14ad520800000000000000
+      internalID: 2727564912591430356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasDecorations_60
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 97
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f2a34a865fecc60800000000000000
+      internalID: 7840473831079292762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChristmasDecorations_0: -7814553352534869566
+      ChristmasDecorations_1: -3707818989294187798
+      ChristmasDecorations_10: -5542635546139480518
+      ChristmasDecorations_11: 495227183297241115
+      ChristmasDecorations_12: -4771901370866441680
+      ChristmasDecorations_13: -7812565225419446311
+      ChristmasDecorations_14: 2089504968257930854
+      ChristmasDecorations_15: -2465639960761268002
+      ChristmasDecorations_16: -797052480317343545
+      ChristmasDecorations_17: -1358158275791827566
+      ChristmasDecorations_18: 6151583160108423608
+      ChristmasDecorations_19: -6916650809601473332
+      ChristmasDecorations_2: 9012048755762811514
+      ChristmasDecorations_20: -4399799302210336106
+      ChristmasDecorations_21: 5158474573862955770
+      ChristmasDecorations_22: -5659603511163486316
+      ChristmasDecorations_23: -4966879776592829180
+      ChristmasDecorations_24: -5702222336152275022
+      ChristmasDecorations_25: 1424039299145487853
+      ChristmasDecorations_26: -3468245074562144417
+      ChristmasDecorations_27: -5963971415784932986
+      ChristmasDecorations_28: 221970769919828573
+      ChristmasDecorations_29: -5911024282311000181
+      ChristmasDecorations_3: -302096393000452786
+      ChristmasDecorations_30: -423122312207389699
+      ChristmasDecorations_31: -4276094987429911096
+      ChristmasDecorations_32: -3028608965496234357
+      ChristmasDecorations_33: -2284168667535412801
+      ChristmasDecorations_34: 1841302117237431839
+      ChristmasDecorations_35: -3759956026054033830
+      ChristmasDecorations_36: 2927640759771268776
+      ChristmasDecorations_37: 6157326030785494594
+      ChristmasDecorations_38: 4571818460495051260
+      ChristmasDecorations_39: -9219997665861123641
+      ChristmasDecorations_4: -3676057439128104540
+      ChristmasDecorations_40: 3749908432570203231
+      ChristmasDecorations_41: 1372814649382992805
+      ChristmasDecorations_42: -2838784806466166223
+      ChristmasDecorations_43: -4513696082538152155
+      ChristmasDecorations_44: 6485040607159046677
+      ChristmasDecorations_45: -1727918277821768194
+      ChristmasDecorations_46: 2886557790528570374
+      ChristmasDecorations_47: -3680414153193771515
+      ChristmasDecorations_48: 7040829366424037298
+      ChristmasDecorations_49: -1094634153350362317
+      ChristmasDecorations_5: 295224760626817169
+      ChristmasDecorations_50: 4749647111477928670
+      ChristmasDecorations_51: 1851467247962075821
+      ChristmasDecorations_52: 6803564895056675981
+      ChristmasDecorations_53: -5534576285677539918
+      ChristmasDecorations_54: -8881763737761282452
+      ChristmasDecorations_55: -3620015414861609390
+      ChristmasDecorations_56: -6548029191502659497
+      ChristmasDecorations_57: -4152901516209178928
+      ChristmasDecorations_58: 7442768689638605607
+      ChristmasDecorations_59: 2727564912591430356
+      ChristmasDecorations_6: -7354101460976094735
+      ChristmasDecorations_60: 7840473831079292762
+      ChristmasDecorations_7: 7122424629362701995
+      ChristmasDecorations_8: -7142689888636784465
+      ChristmasDecorations_9: -4268229333964990544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

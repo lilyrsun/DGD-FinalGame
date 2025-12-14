@@ -1,14 +1,19 @@
+using System.Collections;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager Instance;
+    public static GameManager Instance { get; private set; }
 
-    [Header("Survival Settings")]
-    public int startingLives = 3;
-    public float deathY = -10f;
+    [Header("Lives")]
+    public float maxLives = 3f;
+    public float lives = 3f;
 
-    private int lives;
+    [Header("Hit Pause")]
+    public float hitPauseSeconds = 0.5f;
+
+    public bool IsGameOver { get; private set; }
+    public bool IsHitPaused { get; private set; }
 
     void Awake()
     {
@@ -18,33 +23,44 @@ public class GameManager : MonoBehaviour
             return;
         }
         Instance = this;
-        lives = startingLives;
+
+        lives = maxLives;
     }
 
-    void Update()
+    public void TakeDamage(float amount)
     {
-        // In a more advanced version you'd track bricks in a list,
-        // but for a quick prototype we can just scan occasionally.
-    }
+        if (IsGameOver || IsHitPaused) return;
 
-    public void CheckBrickOutOfBounds(Brick brick)
-    {
-        if (brick.transform.position.y < deathY)
+        lives = Mathf.Max(0f, lives - amount);
+        Debug.Log($"Lives: {lives}");
+
+        if (lives <= 0f)
         {
-            LoseLife(brick);
+            GameOver();
+            return;
         }
+
+        StartCoroutine(HitPauseRoutine());
     }
 
-    private void LoseLife(Brick brick)
+    private IEnumerator HitPauseRoutine()
     {
-        lives--;
-        Debug.Log($"Brick fell! Lives left: {lives}");
-        Destroy(brick.gameObject);
+        IsHitPaused = true;
 
-        if (lives <= 0)
-        {
-            Debug.Log("GAME OVER");
-            // later: show UI, stop spawning, restart button, etc.
-        }
+        float prevTimeScale = Time.timeScale;
+        Time.timeScale = 0f;
+
+        // Must use realtime so the pause still lasts while timescale = 0
+        yield return new WaitForSecondsRealtime(hitPauseSeconds);
+
+        Time.timeScale = prevTimeScale;
+        IsHitPaused = false;
+    }
+
+    private void GameOver()
+    {
+        IsGameOver = true;
+        Time.timeScale = 0f;
+        Debug.Log("GAME OVER");
     }
 }
