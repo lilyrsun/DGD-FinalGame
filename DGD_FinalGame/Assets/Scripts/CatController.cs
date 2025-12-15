@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class CatController : MonoBehaviour
 {
+	
+	private CatSFX sfx;
+
     [Header("Jump")]
     public float jumpForce = 12f;
 
@@ -18,6 +21,7 @@ public class CatController : MonoBehaviour
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+		sfx = GetComponent<CatSFX>();
     }
 
     void Update()
@@ -26,6 +30,8 @@ public class CatController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+
+			sfx?.PlayJump();
         }
         
         // Better jump feel: fall faster than rise

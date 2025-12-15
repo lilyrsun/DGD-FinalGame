@@ -40,6 +40,8 @@ public class GameManager : MonoBehaviour
 
         lives = Mathf.Max(0f, lives - amount);
         Debug.Log($"Lives: {lives}");
+		
+		FindAnyObjectByType<CatSFX>()?.PlayHurt();
 
 		var catAnim = FindAnyObjectByType<CatAnimatorController>(); 
 		if (catAnim != null) 
